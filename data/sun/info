@@ -1,0 +1,9 @@
+FILES: 5
+ALPHA:      255 0 255
+# filename of the frame, milliseconds to pause afterwards
+
+1.jpg      50    
+2.jpg      50 
+3.jpg      50  
+4.jpg      50 
+5.jpg      50 

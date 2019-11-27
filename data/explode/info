@@ -1,0 +1,19 @@
+FILES: 15
+ALPHA:      255 0 255
+# filename of the frame, milliseconds to pause afterwards
+
+1.bmp      30    
+2.bmp      30 
+3.bmp      30  
+4.bmp      30 
+5.bmp      30 
+6.bmp      30    
+7.bmp      30 
+8.bmp      30  
+9.bmp      30 
+10.bmp     30 
+11.bmp     30 
+12.bmp     30    
+13.bmp     30 
+14.bmp     30  
+15.bmp     30 

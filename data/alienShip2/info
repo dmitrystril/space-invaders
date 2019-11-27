@@ -1,0 +1,7 @@
+FILES: 3
+ALPHA:      255 0 255
+
+# filename of the frame, milliseconds to pause afterwards
+1.bmp       100   
+2.bmp       100  
+3.bmp       200  
